@@ -1,5 +1,5 @@
 # My Reading Journal
-Hi my name is Drew Stroede and I am trasintioning into a new career. For the last 7 years, I have been a performance coach for college athletes. Most recently I am working at a fitness startup call called Future.
+Hi my name is Drew Stroede and I am trasintioning into a new career. For the last 7 years, I have been a performance coach for college athletes. Most recently I am working at a fitness startup called Future.
 
 Link to my [github portfolio](https://github.com/dstroede)
 

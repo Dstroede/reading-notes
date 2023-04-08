@@ -1,5 +1,5 @@
 # My Reading Journal
-Hi my name is Drew Stroede and I am trasintioning into a new career. For the last 7 years, I have been a performance coach for college athletes. Most recently I am working at a fitness startup called Future.
+Hi my name is Drew Stroede and I am transitioning into a new career. For the last 7 years, I have been a performance coach for college athletes. Most recently I am working at a fitness startup called Future.
 
 Link to my [github portfolio](https://github.com/dstroede)
 
@@ -7,7 +7,7 @@ Link to my [github portfolio](https://github.com/dstroede)
 - To be okay with *failure*
 - To look at challenges as an *opportunity* for growth
 - To bring *positive* energy to each day
-- Keep moving ~~forwad~~
+- Keep moving ~~forward~~
 
 ### 3 Reminders to stay in a growth mindset:
 

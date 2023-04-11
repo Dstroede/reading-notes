@@ -10,9 +10,9 @@
  4. It is future proof. If applications begin to be outdated, you can still write or view markdown on any text editing software.
 ### What symbol will create a heading in Markdown?
 The '#' sign is used to mark a heading.
- #### How many do you need to create the largest heading?
+#### How many do you need to create the largest heading?
   - The more '#' signs you use the smaller the heading.
- #### How many do you need to create the smallest heading?
+#### How many do you need to create the smallest heading?
   - Six.
 ### When making text bold or italicized for emphasis, it is best practice to use which symbol?
   - The star symbol before and after the word meant to be bolded

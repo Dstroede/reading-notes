@@ -13,15 +13,15 @@ There are *4* main reasons we use markdown
  3. It is platform independent. Unlike other forms of code, you do not need a specific application or software to write it.
  4. It is future proof. If applications begin to be outdated, you can still write or view markdown on any text editing software.
 
-## What symbol will create a heading in Markdown? 
+## What symbol will create a heading in Markdown?
 
-- The '#' sign is used to mark a heading. 
+- The '#' sign is used to mark a heading.
 
-### How many do you need to create the largest heading? 
+### How many do you need to create the largest heading?
 
 - The more '#' signs you use the smaller the heading.
 
-### How many do you need to create the smallest heading? 
+### How many do you need to create the smallest heading?
 
 - Six.
 

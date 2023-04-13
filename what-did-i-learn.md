@@ -4,4 +4,4 @@
 
 * This lesson also forced me to continue to practice markdown.
 
-* One outcome of this lesson is that I'm building confidence with the terminal. When  we first started playing in the terminal, I was very intimidated to work with it and navigate. Now I'm finding it to be straight forward. At this point, I feel like I'm having a conversation with my computer. 
+* One outcome of this lesson is that I'm building confidence with the terminal. When  we first started playing in the terminal, I was very intimidated to work with it and navigate. Now I'm finding it to be straight forward. At this point, I feel like I'm having a conversation with my computer.

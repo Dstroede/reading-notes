@@ -1,3 +1,3 @@
-# HTML Notes:
+# HTML Notes
 
-Where I will put my notes
+Where I will put my notes.

@@ -14,5 +14,5 @@ You will call the cuntion by its name and then ask it to act in some way.
 
 ## What are the parenthesis () for when you define a function?
 
-The name of the variable.
+The name of the variable
 

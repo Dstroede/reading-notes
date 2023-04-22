@@ -24,6 +24,7 @@ Link to my [github portfolio](https://github.com/dstroede)
 | [Class 10](https://dstroede.github.io/reading-notes/class10notes) | [Resources](https://dstroede.github.io/reading-notes/resources) | [Learning](https://dstroede.github.io/reading-notes/what-did-i-learn) |
 
 ## Code 201 - Foundations of Software Development
+
 | Notes | | |
 | ---- | ---- | ---- |
 | [Class 1](https://dstroede.github.io/reading-notes/201-Class1Notes) | [Class 2](https://dstroede.github.io/reading-notes/201-Class2Notes)| [Class 3](https://dstroede.github.io/reading-notes/201-Class3Notes) |

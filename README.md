@@ -12,7 +12,7 @@ Link to my [github portfolio](https://github.com/dstroede)
 
 * Our *purpose* with this website is to take notes for the Code-Fellows Coding classes.
 
-### Table of Contents
+# Table of Contents -
 
 ## Code 102 - Intro to Software Development
 

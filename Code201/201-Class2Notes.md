@@ -1,70 +1,81 @@
 # Class 2 Notes
 
-## When should you use an unordered list in your HTML document?
+## Why is it important to use semantic elements in our HTML?
 
-Whenever you are listing items that are do not require in any sequetial order or order of importance.
+Semantics give a clear description of what each element does. iwthout it our code is vague and can be difficult for others to read or edit.
 
-## How do you change the bullet style of unordered list items?
+## How many levels of headings are there in HTML?
 
-The bullet style of the list is determined by the CSS.
+5
+## What are some uses for the <sup> and <sub> elements?
 
-## When should you use an ordered list vs an unorder list in your HTML document?
+using smaller lettering for chemical elements or dates.
 
-Unordered lists are meant for items that are grouped together in a meaningless order or sequence. The ordered lists are specifically for items where they need to presented in an order of importance.
+## When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
 
-## Describe two ways you can change the numbers on list items provided by an ordered list?
+The title attribute will be used here.
 
-You can define how you want the list to start within the opening tag by using the start Attribute
-ex. < OL  start="4" >
-Or you can start the order in the CSS
+## What are ways we can apply CSS to our HTML?
 
-## Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
+Create different coloros for words backgrounds, to change shape or placements of pictures or paragraphs.
 
-Lets pretend that the content is a princess in a castle. In this fairytale story the princess is the castle is surrounded by a moat. The land between the castle and the moat is what we call padding. If we are prince charming trying to get it we might consider the very edge of the land (where it meets the moat) the *border* of the castles land. We can then call the moat and its contents the margin. This is what truly seapates the castle from foreign invaders.
+## Why should we avoid using inline styles?
 
-## List and describe the four parts of an HTML elements box as referred to by the box model.
+It makes code difficult to edit later on.
 
-- Content: As the name implies this is where the picture or paragraph reside.
-- Padding: this is the space between the content and its border.
-- Border: This is the very edge of what one might think of as content.
-- Margin: The margin is the blank space that sparates the paragraph or image from the rest of the page.
+## Review the block of code below and answer the following questions:
 
-## What data types can you store inside of an Array?
+   h2 {
+     color: black;
+     padding: 5px;
+   }
 
-Any data can be stored in an array. Strings, numbers or even strings and numbers.
+## What is representing the selector?
 
-## Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+The sub headings
 
-Yes
-console.log(people);
+## Which components are the CSS declarations?
 
-## List five shorthand operators for assignment in javascript and describe what they do.
+color: black;
+padding: 5px;
 
-x = f() -Assigns a value to a variable
+## Which components are considered properties?
 
-x += f() -Performs addition by numerical value or concatenation
+Color & Padding
 
-x -= f() -Performs subtraction by numerical value or concatenation
+## What data type is a sequence of text enclosed in single quote marks?
 
-x *= f() -Performs multiplication of two operands
+A String
 
-x /= f() -Performs division of two operands
+## List 4 types of JavaScript operators.
 
-## Read the code below and evaluate the last expression and explain what the result would be and why.
+Plus sign, minus sign, multiplication signs and division signs. 
 
- *let a = 10;*
- *let b = 'dog';*
- *let c = false;*
+## Describe a real world Problem you could solve with a Function.
 
- // evaluate this
- *(a + c) + b;*
+A function could be used on an alcohol sight to vet the user and make sure they are over 21 years of age before the go on the sight. 
 
-False because C is false. If any part of the expression is false, it is all false.
+## An if statement checks a __ and if it evaluates to ___, then the code block will execute.
 
-## Describe a real world example of when a conditional statement should be used in a JavaScript program.
+For true or fals and if it evaluates true, it wille execute.
 
-A simple example might be that if you log onto a website during the day, the website may appear bright with light clouds in the background like the sun is out and at night it appears dark with stars in the background like its a window to the outside world.
+## What is the use of an else if?
 
-## Give an example of when a Loop is useful in JavaScript.
+If the statement is false
 
-When you have to do a task over and over again.
+## List 3 different types of comparison operators.
+
+According to [Mozilla.Org](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+
+- === and !== — test if one value is identical to, or not identical to, another.
+- < and > — test if one value is less than or greater than another.
+- <= and >= — test if one value is less than or equal to, or greater than or equal to, another.
+
+
+## What is the difference between the logical operator && and ||?
+
+Almost opposites in the && means that everything must be true for it to be true
+
+|| indicates if anything either value is true then its true
+
+

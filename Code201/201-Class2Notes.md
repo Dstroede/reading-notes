@@ -1,5 +1,7 @@
 # Class 2 Notes
 
+## Why this topic matters as it relates to what you are studying in this module.
+this us the very basics of HTML CSS and Javascript. We are still defining functions as of now but having a firm grasp on what these terms mean and how they could be used will allow us to expand to more complex questions later. 
 ## Why is it important to use semantic elements in our HTML?
 
 Semantics give a clear description of what each element does. iwthout it our code is vague and can be difficult for others to read or edit.

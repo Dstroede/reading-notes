@@ -1,6 +1,8 @@
 # Class 3 Notes
 
-# Class 2 Notes
+## why this topic matters 
+
+Continuing to break down components of html, css, and javascript
 
 ## When should you use an unordered list in your HTML document?
 

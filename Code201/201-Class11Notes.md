@@ -37,3 +37,5 @@ Srcset allows the browser to choose which images it would like to use and how th
 
 
 It speeds up load times and is less work for the developer.
+
+

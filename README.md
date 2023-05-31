@@ -30,7 +30,7 @@ Link to my [github portfolio](https://github.com/dstroede)
 | [Class 1](https://dstroede.github.io/reading-notes/Code201/201-Class1Notes) | [Class 2](https://dstroede.github.io/reading-notes/Code201/201-Class2Notes)| [Class 3](https://dstroede.github.io/reading-notes/Code201/201-Class3Notes) |
 | [Class 4](https://dstroede.github.io/reading-notes/Code201/201-Class4Notes) | [Class 5](https://dstroede.github.io/reading-notes/Code201/201-Class5Notes) | [Class 6](https://dstroede.github.io/reading-notes/Code201/201-Class6Notes) |
 | [Class 7](https://dstroede.github.io/reading-notes/Code201/201-Class7Notes) |[Class 8](https://dstroede.github.io/reading-notes/Code201/201-Class8Notes) |[Class 9](https://dstroede.github.io/reading-notes/Code201/201-Class9Notes) |
-| [Class 10](https://dstroede.github.io/reading-notes/Code201/201-Class10Notes) | [Class 11](https://dstroede.github.io/reading-notes/201-Class11Notes) | [Class 12](https://dstroede.github.io/reading-notes/Code201/201-Class12Notes) |
+| [Class 10](https://dstroede.github.io/reading-notes/Code201/201-Class10Notes) | [Class 11](https://dstroede.github.io/reading-notes/Code201/201-Class11Notes) | [Class 12](https://dstroede.github.io/reading-notes/Code201/201-Class12Notes) |
 | [Class 13](https://dstroede.github.io/reading-notes/Code201/201-Class13Notes) | [Class 14](https://dstroede.github.io/reading-notes/Code201/201-Class14Notes) | [Class 15](https://dstroede.github.io/reading-notes/Code201/201-Class15Notes) |
 
 ## Code 301 - Intermediate Software Development

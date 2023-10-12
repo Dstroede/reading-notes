@@ -39,7 +39,7 @@ Link to my [github portfolio](https://github.com/dstroede)
 | ---- | ---- | ---- |
 | [Class 1](https://dstroede.github.io/reading-notes/Code301/301-Class1Notes) | [Class 2](https://dstroede.github.io/reading-notes/Code301/301-Class2Notes)| [Class 3](https://dstroede.github.io/reading-notes/Code301/301-Class3Notes) |
 | [Class 4](https://dstroede.github.io/reading-notes/Code301/301-Class4Notes) | [Class 5](https://dstroede.github.io/reading-notes/Code301/301-Class5Notes) | [Class 6](https://dstroede.github.io/reading-notes/Code301/301-Class6Notes) |
-| [Class 7](https://dstroede.github.io/reading-notes/Code301/301-Class7Notes) |[Class 8](https://dstroede.github.io/reading-notes/Code201/201-Class8Notes) |[Class 9](https://dstroede.github.io/reading-notes/Code301/301-Class9Notes) |
+| [Class 7](https://dstroede.github.io/reading-notes/Code301/301-Class7Notes) |[Class 8](https://dstroede.github.io/reading-notes/Code301/301-Class8Notes) |[Class 9](https://dstroede.github.io/reading-notes/Code301/301-Class9Notes) |
 | [Class 10](https://dstroede.github.io/reading-notes/Code301/301-Class10Notes) | [Class 11](https://dstroede.github.io/reading-notes/Code301/301-Class11Notes) | [Class 12](https://dstroede.github.io/reading-notes/Code301/301-Class12Notes) |
 | [Class 13](https://dstroede.github.io/reading-notes/Code301/301-Class13Notes) | [Class 14](https://dstroede.github.io/reading-notes/Code301/301-Class14Notes) | [Class 15](https://dstroede.github.io/reading-notes/Code301/301-Class15Notes) |
 

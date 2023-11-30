@@ -1,5 +1,39 @@
 # Class 11 Notes
 
+| SQL | NoSQL|
+| ---- | ---- |
+| Relational | Non-Reational |
+| Table Based | Document Based |
+| Predifined Schemas | Dynamic Schemas |
+| Vertically Scalable | Horizontally Scalable |
+| Used for defining and manipulating data | Used for collection of documents |
+
+
+
+## What kind of data is a good fit for an SQL database?
+
+Structured Data
+
+## Give a real world example.
+
+Retail where there is customers, products, orders, inventory.
+
+## What kind of data is a good fit a NoSQL database?
+
+Unstructured where the data will need lots of flexibility.
+
+## Give a real world example.
+
+Social media where each user may have wildy different data and content
+
+## Which type of database is best for hierarchical data storage?
+
+SQL
+
+## Which type of database is best for scalability?
+
+NoSQL
+
 ## What does SQL stand for?
 
 Structured Query Leanguage
